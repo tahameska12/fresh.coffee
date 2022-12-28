@@ -1,0 +1,28 @@
+/********smart phones and tablets*******/
+
+@media (max-width: 767px) {
+  .navbar-inverse .navbar-nav > li > a {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    width: 317px;
+  }
+
+  .form-control {
+    margin: 20px auto;
+  }
+}
+
+/****small screen********/
+
+@media (min-width: 768px) and(max-width:991px) {
+}
+
+/*******medium screen*********/
+
+@media (min-width: 992px) and(max-width:1199px) {
+}
+
+/******large screen****/
+
+@media (min-width: 1200px) {
+}
